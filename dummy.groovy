@@ -22,6 +22,7 @@ public class dummy {
 	
 	String test1(){
 		println "Gopi"
+		println "Kugan"
 		return "Gopi"
 	}
 	
